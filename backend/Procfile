@@ -1,0 +1,2 @@
+# Render also reads a Procfile as fallback
+web: uvicorn app.main:app --host 0.0.0.0 --port $PORT

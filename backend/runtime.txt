@@ -1,0 +1,2 @@
+# runtime.txt — tells Render / Heroku which Python version to use
+python-3.11.0
